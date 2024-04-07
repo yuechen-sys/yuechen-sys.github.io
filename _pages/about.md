@@ -1,14 +1,6 @@
-<!--
- * @Descripttion: 
- * @version: 1.0.0
- * @Author: CYKS
- * @Date: 2024-03-07 14:44:23
- * @LastEditors: CYKS
- * @LastEditTime: 2024-03-31 18:00:28
--->
 ---
 permalink: /
-title: "Yue Chen's profile"
+title: "Yue Chen"
 author_profile: true
 redirect_from: 
   - /about/
