@@ -1,3 +1,11 @@
+<!--
+ * @Descripttion: 
+ * @version: 1.0.0
+ * @Author: CYKS
+ * @Date: 2024-03-07 14:44:23
+ * @LastEditors: CYKS
+ * @LastEditTime: 2024-04-25 19:14:26
+-->
 ---
 layout: archive
 title: "CV"
@@ -11,54 +19,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in KAIST, 2024.02~2026(expected)
+* B.S. in Beijing University of Posts and Telecommunications(BUPT), 2019.09~2023.06
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* ECL (Master Student)
+  * Working on Progress!
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Baidu (Network Virtualization Enginneer)
+  * OVS flow tables hardware offloading on RDMA(CX6, BF2)
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* ChaseLab (Research Intern)
+  * Characterizing BlockChain Workload on GPGPU-Sim 
+  * Advisor: Prof. Jie Zhang
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* C/C++, Rust, Python, System Verilog, SpinalHDL(Scala), HLS
+* DPDK, GPGPU-Sim, Vivado
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  2024Spring KAIST CS211 Digital System Part-time TA.
