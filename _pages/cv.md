@@ -1,3 +1,11 @@
+<!--
+ * @Descripttion: 
+ * @version: 1.0.0
+ * @Author: CYKS
+ * @Date: 2024-03-07 14:44:23
+ * @LastEditors: CYKS
+ * @LastEditTime: 2024-04-28 18:44:57
+-->
 ---
 layout: archive
 title: "CV"
@@ -17,7 +25,7 @@ Education
 Work experience
 ======
 * ECL (Master Student)
-  * Working on Progress!
+  * Working in Progress!
 
 * Baidu (Network Virtualization Enginneer)
   * OVS flow tables hardware offloading on RDMA(CX6, BF2)
@@ -33,4 +41,4 @@ Skills
 
 Teaching
 ======
-  2024Spring KAIST CS211 Digital System Part-time TA.
+  2024Spring KAIST CS211 Digital System and Lab. Part-time TA.
